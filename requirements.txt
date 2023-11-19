@@ -1,0 +1,6 @@
+customtkinter==5.2.1
+numpy==1.26.2
+Pillow==10.1.0
+pygame==2.5.2
+tensorflow==2.15.0
+tensorflow_hub==0.15.0
